@@ -1,5 +1,7 @@
 # CRUD-Operations-in-PHP
 
+Create, read, update and delete.
+
 ## Demonstration
 
 <img src="./CRUD.gif" alt="Canteen demo"/>
